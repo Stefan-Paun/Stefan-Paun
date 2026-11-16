@@ -16,4 +16,4 @@
 I decide what gets built and how it should behave. Claude Code agents write the code in parallel, then come tests, a security check and the release. Nothing goes public without my review.
 
 ---
-💬 Best way to reach me: [kontakt@stefanpaun.page](mailto:kontakt@stefanpaun.page) or GitHub.
+💬 Best way to reach me: GitHub.
