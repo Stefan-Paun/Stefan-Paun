@@ -7,7 +7,7 @@
 ## What I'm building
 
 - **[Agent-Board](https://github.com/Stefan-Paun/agent-board)**: a cozy pixel-art live view of your Claude Code agents. Every subagent walks into the room of the tool it's using. Zero dependencies, English/German/Spanish, CI on Linux, macOS and Windows. **[▶ Live demo](https://stefanpaun.page/agent-board/?demo=1)**
-- **[Schleuse](https://github.com/Stefan-Paun/schleuse)**: a GitHub Action and CLI that stops pull requests carrying hidden PolinRider-style payloads. Field test on 1 November 2026: 3 documented poisoned PRs blocked, 31 clean PRs without a false alarm.
+- **[Schleuse](https://github.com/Stefan-Paun/pr-airlock)**: a GitHub Action and CLI that stops pull requests carrying hidden PolinRider-style payloads. Field test on 1 November 2026: 3 documented poisoned PRs blocked, 31 clean PRs without a false alarm.
 - **Jarvis** *(private)*: my voice assistant for the Mac. Hotkey or "Hey Jarvis" → Whisper → Claude with tools → spoken answer. Encrypted personal data, Touch ID unlock, more than 3,600 tests. Cloud routines test it every night and open draft pull requests for me to review in the morning.
 - **Rallye engine**: pixel-art learning games with bosses, a shop and spaced repetition.
 
